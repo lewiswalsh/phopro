@@ -1,5 +1,5 @@
 # phopro
-Image file processor to create a directory tree of files based on year, month, and day
+Image file processor to create a directory tree of files based on year, month, and day. It's a bit hacky, but it did the job. Improvements and pull requests welcome.
 
 ## Options
 | Flag | Description |
