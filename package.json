@@ -1,0 +1,21 @@
+{
+  "name": "phopro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "exif": "^0.6.0",
+    "mkdirp": "^0.5.1",
+    "recursive-readdir": "^2.2.2"
+  }
+}
